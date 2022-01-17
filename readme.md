@@ -1,7 +1,7 @@
 # yajra-datatable-demo
 
 ## Prerequisite
-* laravel 59
+* laravel 8
 * composer (installed in global path)
 * Apache
 * MySQL
